@@ -1,2 +1,2 @@
 # The-Awesome-Game
-This is game rock paper scissors
+This is a game rock paper scissors
