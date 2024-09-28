@@ -7,4 +7,8 @@ This is a game rock paper scissors
 
 In this game rock beats scissors ,paper beats rock and scissors beats paper if you pick right you are the winner 
 if its the same for example paper and paper its draw 
-In this game you play against the computer
+.In this game you play against the computer
+
+
+-  You have score system
+-  and easy restart
